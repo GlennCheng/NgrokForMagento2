@@ -10,6 +10,8 @@ it will replace the base url of your magento2 project, and restore the base url 
 
 ### Usage
 
+* install [Ngrok](https://ngrok.com/download) and copy the command to /usr/bin/
+
 * add one server name for your nginx config of your magento2 project.
 
 ```bash
